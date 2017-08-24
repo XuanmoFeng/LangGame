@@ -28,4 +28,5 @@
   7.我们将游戏表里的数据一一反馈给用户
   
   具体的数据表的设计，博客：http://blog.csdn.net/xuaomo/article/details/75195726
+  ![image](http://img.blog.csdn.net/20170716092708749?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQveHVhb21v/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center)
   
